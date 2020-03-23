@@ -7,7 +7,11 @@
 - BOW词袋法；
 - TFIDF法。
 
-实现了多种的优化方法：
+实现了6种优化方法：
 
-- SGD；
-- 
+- SGD;
+- Momentum;
+- RMSprop;
+- AdaGrad;
+- AdaDelta;
+- Adam.
